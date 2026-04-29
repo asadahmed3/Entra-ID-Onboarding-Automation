@@ -22,7 +22,7 @@ This repository contains a production-ready PowerShell script designed to automa
 4.  **Execution:** Users are created and instantly mapped to the correct organizational groups.
 
 ## 📸 Screenshots
-![Automation Success](Images/)
+![Automation Success](Automation Results/)
 
 ## ⚖️ License
 Distributed under the MIT License. See `LICENSE` for more information.
