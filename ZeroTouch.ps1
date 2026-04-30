@@ -1,7 +1,7 @@
 # 1. Connection Details
-$myTenantId = "74dcdc65-b8f5-4e67-a635-c126ff459d10"
-$domain = "asadahmed02hotmail.onmicrosoft.com"
-$itGroupId = "61bda375-183a-43ed-bd77-108991e62067" 
+$myTenantId = "Input Tenant ID Here"
+$domain = "Place Domain Email Here"
+$itGroupId = "Paste Group ID Here" 
 
 # 2. Data Ingestion
 $usersToCreate = Import-Csv "./new_hires.csv"
