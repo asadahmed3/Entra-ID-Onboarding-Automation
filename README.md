@@ -1,7 +1,7 @@
 # Zero-Touch User Onboarding | PowerShell & Microsoft Graph API
 
 ## 🚀 Overview
-This repository contains a production-ready PowerShell script designed to automate the user provisioning process within **Microsoft Entra ID (Azure AD)**. By leveraging the **Microsoft Graph SDK**, this tool transforms manual entry tasks into a seamless, "Zero-Touch" workflow.
+This repository contains a production-ready PowerShell script to automate user provisioning in **Microsoft Entra ID (Azure AD)**. By leveraging the **Microsoft Graph SDK**, this tool transforms manual entry tasks into a seamless, "Zero-Touch" workflow.
 
 ## ✨ Key Features
 * **Bulk Provisioning:** Automates the creation of multiple users from a structured CSV file.
@@ -25,4 +25,4 @@ This repository contains a production-ready PowerShell script designed to automa
 ![Automation Results](Images/)
 
 ## ⚖️ License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License. See `LICENSE` for more information.
